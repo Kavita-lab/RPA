@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "absolute-cubist-316404",
+  "private_key_id": "9ab46178c4516c70679af2e68f1d4c2164f7f09d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD59MF5Ac7Sgz/U\n7kqZS9sn3DQ4CPq1iUeD4zNrJUnPedSH3pfnqvZjli4AajnlynnZFpBKdX3sA40g\n95WWj5vQ0yWHRAKLLFiO3xEC3EV4dW6FOJpvJsBED8pvUbmedtwYUrqYW4JlKmP9\n/1st1id0TZ//p02vDxkNEuLMU1MRBgt5fP2DmzLflSYb64YYL9Y5WMl7HaNIJbA0\nyr3wwMyStVlR5ZwM81cUqVCx7Lq7Bzueh0XjSrO2/s0C2PuLt9PZuAiZLCPNvI+B\nasBwpS1Q4aCEgm2e2g1FIR0IgpsJs6drE3VM2u3tpDOOgjispU07ZmyfbXLDln+X\ntdJwBTwjAgMBAAECggEAAlzoydv4PknDh7cls2OnvETSMTCw54Eool6jNMzqQlmU\nlQmwqQaioRrs+yFLxBhCjbcYEqZOmftky1VxqcGHEGFQEfbU5ju7XGfbQWc2ZxhN\nGfzC6EHohh8Z6XKVJ0UqBMKp/0dEupLUSeOXpMwaehtxY63Fqq9bZhZU+3OBeZ1A\nJBpksfiJZXovFuTYOFiQ8jpoeynSGjrrVVPyvauiAzokI36z3VDAFuyBqo714vBm\nAFsctbp72X/48zpGfNWIjaBllca8x0yaUtJssunBv/rPvEH63zXkSxQLvb3oyT2y\nBjURPyDwitt67SNRsNKmlqlZUQnPK7to/XOjVsLE+QKBgQD+/pnj6sBnvKDoeXNz\nC/sQ80aQXDpthSDW/amFK5+xL3s4crSfyaK97m2wNDj/etU/zR0g6387lYX7+zch\nvhygW3ipAdEZLZE16b11eAYTc0INQbEpKIf9JwV3icbsZpQtPHHItC1WTz/erHml\nlb5OmGHzOZOp9ppA4ZFFQZrGpQKBgQD68RGTOs+PcPXigmEAHJjooagS+3PVw6YH\nbguEzqqcNy0Egs+7wf19OTgwrFK+oq77/qHwB94M0QueiTXvDovKP0+DgZXc+FM/\nr3vn9nE5YNQYUoYyunJsRmMOMvXWuzDCiI9X2H9y9v8cPmCohHx6/tmo+2Ed7EL7\nALYMjATFJwKBgG82TZno3aegzjD2H1MS65o18BWwE8+GW49IrLGnGAvoIH67EGoM\nQA1EOtS5wg4y3WTpKYYdD63GBdyjcSUnTEbn/hT/9NldVVLFMdtU0JmVED7F4uWH\nht/zL+A11+tsxb2A+kNFyew1vi543MlKKOkQbs/s0ak0I4yelIQ3G7D9AoGAFTKH\n6YfuQI+qNZgN2ZSQ1hXRvMjA4C3GuJnzHyTWBJwkkVz7b0DTyOAsfvAPjUrwvRil\nVUFU4IBIGvw8MhVoeY0filxH7IKNhbOtI8sNhWtIf0V5UI+vWrYXZ/umCJ2HYOdo\nNGN1YKC8rAYY5CNM4Jbmi/+wFHcAsXM97ZFmVcECgYEA1K+FJ9WHQd+BLbUWAedL\ndoisGFBguUIk/IBdC/nt9ruHa9d36oZyfKnOioie3Og9yK2hV1ypxteE4n8S1+2P\n2xMWkZ7Tf2u1OgDy2eukBjENe7qBOx30BjHWiUJOZvHTmRakEuF5SeirASVGZuED\nSPwxssTbJy9ODQ9bDmlT62Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tworobin@absolute-cubist-316404.iam.gserviceaccount.com",
+  "client_id": "108508137876775990345",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tworobin%40absolute-cubist-316404.iam.gserviceaccount.com"
+}
